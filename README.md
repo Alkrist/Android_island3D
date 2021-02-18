@@ -1,5 +1,5 @@
 # Android_island3D
-####### *This game is really far from a release and no longer updated.*
+###### *This game is really far from a release and no longer updated.*
 
 ### Concepts
 This is a simple strategy game based on a famous boargame about island exploration and search for treasures by 2-4 pirate teams.
@@ -10,6 +10,6 @@ At first, evey chunk of the island is unknown. To uncover a chunk players have t
 Also players can kill eachother, if the enemy player is located on the neighbour tile. (or more than 1 enemy player, then all of them will be killed at once). Killed players respawn on their ship.
 Ship can't be destroyed, all of the enemy players nearing the ship in 1 tile length will be permanently killed (without respawn). 
 
-###Development
+### Development
 This game is written with **OpenGL ES**
 Development is discontinued.
