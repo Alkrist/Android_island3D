@@ -15,7 +15,7 @@ MainActivity is found in com/test package. The code is split into logical module
 Menus module - in charge of GUI **building**, not rendering. Shaders are located in assets as well as game resources.
 
 ### Possible **TODO** list
-Add sounds, fix tiles, add animations, add new player and ship models, add better GUIs, fix stupid freeze bug on exit from pause menu.
+Add sounds, fix tiles, add more tile types and mechanics, add animations, add new player and ship models, add better GUIs, fix stupid freeze bug on exit from pause menu.
 
 ### Development
 This game is written with **OpenGL ES**.
