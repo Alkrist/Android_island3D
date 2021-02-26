@@ -12,6 +12,10 @@ Ship can't be destroyed, all of the enemy players nearing the ship in 1 tile len
 
 ### Structure
 MainActivity is found in com/test package. The code is split into logical modules: RenderEngine module - in charge of rendering surprisingly, Game module - in charge of all game logic,
+Menus module - in charge of GUI **building**, not rendering. Shaders are located in assets as well as game resources.
+
+### Possible **TODO** list
+Add sounds, fix tiles, add animations, add new player and ship models, add better GUIs, fix stupid freeze bug on exit from pause menu.
 
 ### Development
 This game is written with **OpenGL ES**.
