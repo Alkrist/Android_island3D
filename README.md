@@ -12,4 +12,5 @@ Ship can't be destroyed, all of the enemy players nearing the ship in 1 tile len
 
 ### Development
 This game is written with **OpenGL ES**.
-\nDevelopment is discontinued.
+
+Development is discontinued.
