@@ -11,5 +11,5 @@ Also players can kill eachother, if the enemy player is located on the neighbour
 Ship can't be destroyed, all of the enemy players nearing the ship in 1 tile length will be permanently killed (without respawn). 
 
 ### Development
-This game is written with **OpenGL ES**
-Development is discontinued.
+This game is written with **OpenGL ES**.
+\nDevelopment is discontinued.
