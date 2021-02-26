@@ -2,7 +2,7 @@
 ###### *This game is really far from a release and no longer updated.*
 
 ### Concepts
-This is a simple strategy game based on a famous boargame about island exploration and search for treasures by 2-4 pirate teams.
+This is a simple strategy game based on a famous boargame about island exploration and search for treasures by 2-4 players each represented as a pirate team.
 The island is presented as a set of tiles (N*N size; 4<N<20), each tile has it's own unique features (traps, treasures, blank tiles, fortresses etc.) Each team has 3 players and 1 ship. Ship
 is a base for players, also is a place where to bring all of the treasures to. Each treasure brought to the ship counts as 1 score point. The game ends when no treasures are left on
 the island. The winnder is defined by the highest score (that one, who brought the biggest amount of gold to his base). 
