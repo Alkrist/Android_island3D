@@ -10,6 +10,9 @@ At first, evey chunk of the island is unknown. To uncover a chunk players have t
 Also players can kill eachother, if the enemy player is located on the neighbour tile. (or more than 1 enemy player, then all of them will be killed at once). Killed players respawn on their ship.
 Ship can't be destroyed, all of the enemy players nearing the ship in 1 tile length will be permanently killed (without respawn). 
 
+### Structure
+MainActivity is found in com/test package. The code is split into logical modules: RenderEngine module - in charge of rendering surprisingly, Game module - in charge of all game logic,
+
 ### Development
 This game is written with **OpenGL ES**.
 
